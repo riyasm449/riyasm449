@@ -1,6 +1,6 @@
-## Hi there,
 
-# Hi I'm Mohamed Riyas, software developer. Currently pursuing 3rd year of bachelor's degree in the field of Computer Science and Engineering.
+# Hi I'm Mohamed Riyas, 
+## software developer. Currently pursuing 3rd year of bachelor's degree in the field of Computer Science and Engineering.
 
 <h3 align="center">A passionate flutter developer from India</h3>
 
