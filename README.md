@@ -1,14 +1,13 @@
 
 # Hi I'm Mohamed Riyas, 
-## Software developer. Currently pursuing 3rd year of Bachelor's degree in the field of Computer Science and Engineering (B.E - CSE).
+## Currently pursuing 3rd year of Bachelor's degree in the field of Computer Science and Engineering (B.E - CSE).
 
-<h3 align="center">A passionate flutter developer from India</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=riyasm449&label=Profile%20views&color=0e75b6&style=flat" alt="riyasm449" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riyasm449&show_icons=true&locale=en&layout=compact" alt="riyasm449" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riyasm449&show_icons=true&locale=en" alt="riyasm449" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riyasm449&label=Profile%20views&color=0e75b6&style=flat" alt="riyasm449" /> </p>
-
+<h3 align="center">A passionate flutter developer from India</h3>
 
 - 🌱 I’m currently learning **MEAN/MERN stack**
 
