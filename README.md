@@ -4,6 +4,9 @@
 
 <h3 align="center">A passionate flutter developer from India</h3>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riyasm449&show_icons=true&locale=en&layout=compact" alt="riyasm449" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riyasm449&show_icons=true&locale=en" alt="riyasm449" /></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyasm449&label=Profile%20views&color=0e75b6&style=flat" alt="riyasm449" /> </p>
 
 
@@ -29,8 +32,7 @@
 <p><a href="https://www.buymeacoffee.com/riyasm449"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="riyasm449" /></a></p><br></br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riyasm449&show_icons=true&locale=en&layout=compact" alt="riyasm449" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riyasm449&show_icons=true&locale=en" alt="riyasm449" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riyasm449&" alt="riyasm449" /></p>
 
