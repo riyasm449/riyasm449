@@ -1,3 +1,7 @@
+## Hi there,
+
+# Hi I'm Mohamed Riyas, software developer. Currently pursuing 3rd year of bachelor's degree in the field of Computer Science and Engineering.
+
 <h3 align="center">A passionate flutter developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyasm449&label=Profile%20views&color=0e75b6&style=flat" alt="riyasm449" /> </p>
