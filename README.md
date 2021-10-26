@@ -1,6 +1,6 @@
 
 # Hi I'm Mohamed Riyas, 
-## Currently pursuing 3rd year of Bachelor's degree in the field of Computer Science and Engineering (B.E - CSE).
+## Currently pursuing final year of Bachelor's degree in the field of Computer Science and Engineering (B.E - CSE).
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyasm449&label=Profile%20views&color=0e75b6&style=flat" alt="riyasm449" /> </p>
 
